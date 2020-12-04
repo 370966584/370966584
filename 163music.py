@@ -67,7 +67,7 @@ songs = songs[:5]
 i = 0
 text = ""
 for song in songs:
-    text += "%i. 🌈%s\n" % (i, song['song'])
+    text += "%i. 🎵%s\n" % (i, song['song'])
     i += 1
 
 with open('README-base.md', 'r', encoding='utf-8') as f:
