@@ -10,4 +10,4 @@
 3. 🌈离开你的城市后 - 陈壹千
 4. 🌈蜜蜂 - 王贰浪
 
-<img align="right"  src="https://github-readme-stats.vercel.app/api?username=370966584&show_icons=true&theme=radical" />
+<img align="left"  src="https://github-readme-stats.vercel.app/api?username=370966584&show_icons=true&theme=radical" />
