@@ -64,10 +64,10 @@ if len(argv)>=1:
 
 songs = getSongData(uid=uid, song_type=int(song_type))
 songs = songs[:5]
-i = 0
+i = 1
 text = ""
 for song in songs:
-    text += "%i. 🎵%s\n" % (i, song['song'])
+    text += "%i. 🎵 %s\n" % (i, song['song'])
     i += 1
 
 with open('README-base.md', 'r', encoding='utf-8') as f:
