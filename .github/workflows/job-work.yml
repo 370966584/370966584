@@ -36,6 +36,6 @@ jobs:
         python 163music.py 320369507 1
     - name: commit to rep
       run: |
-        git add README.md
+        git add .
         git commit -m "Update README.md"
         git push
