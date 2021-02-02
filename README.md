@@ -4,10 +4,10 @@
 
 😄 listen to my this week song list of top 5:
 
-1. 🎵 The Day You Went Away - M2M
-2. 🎵 浮夸 - 陈奕迅
-3. 🎵 无条件爱你 - 爱星人
-4. 🎵 不打扰 - 接个吻，开一枪/沈以诚/刘思鉴
-5. 🎵 还有我 - 梁雨
+1. 🎵 TODAY [G-DRAGON 2017 WORLD TOUR ＜ACT III, M.O.T.T.E＞ IN JAPAN] - G-Dragon
+2. 🎵 Look4You - Alberto Ciccarini
+3. 🎵 Pillow talk - Auryn
+4. 🎵 拉过勾的 - 陆虎
+5. 🎵 欢 - 苏琛
 
 <img align="left"  src="https://github-readme-stats.vercel.app/api?username=370966584&show_icons=true&theme=radical" />
