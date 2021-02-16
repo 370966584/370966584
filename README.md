@@ -4,10 +4,9 @@
 
 😄 listen to my this week song list of top 5:
 
-1. 🎵 侧脸 - 于果
-2. 🎵 Walls - Ruben
-3. 🎵 Blame (Tim Gunter Remix) - Tim Gunter/graves
-4. 🎵 This Is What You Came For - MADILYN
-5. 🎵 觅香 - 栗先达
+1. 🎵 雨后的天空 - 李学仕
+2. 🎵 Life Is Beautiful - The Afters
+3. 🎵 One Day - Emblem3
+4. 🎵 拉过勾的 - 陆虎
 
 <img align="left"  src="https://github-readme-stats.vercel.app/api?username=370966584&show_icons=true&theme=radical" />
