@@ -4,10 +4,10 @@
 
 😄 listen to my this week song list of top 5:
 
-1. 🎵 其实都没有 - 杨宗纬/杨旭/于冬然/范甲君
-2. 🎵 This Is What You Came For - Boyce Avenue
-3. 🎵 尘缘浅 - 傅许
-4. 🎵 他不懂 - 张杰
-5. 🎵 梦伴 - 李悦君Ericaceae
+1. 🎵 给我一个理由忘记 - 王巨星
+2. 🎵 有始无终 - 吴大文
+3. 🎵 逃离 - 陈麒名
+4. 🎵 一直很安静（Acoustic）（翻自 阿桑）  - 大邱
+5. 🎵 尘土 - 安朕宇
 
 <img align="left"  src="https://github-readme-stats.vercel.app/api?username=370966584&show_icons=true&theme=radical" />
