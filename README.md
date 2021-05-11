@@ -4,10 +4,10 @@
 
 😄 listen to my this week song list of top 5:
 
-1. 🎵 追 - 陈壹千
-2. 🎵 静悄悄 - 陈泫孝（大泫）
-3. 🎵 不在 - 韩安旭
-4. 🎵 TODAY [G-DRAGON 2017 WORLD TOUR ＜ACT III, M.O.T.T.E＞ IN JAPAN] - G-Dragon
-5. 🎵 这些民谣 - 一次听个够 - 翁大涵
+1. 🎵 所有（翻自 杨博然） - 陆健
+2. 🎵 一个傻子（合唱版） - 小黄同学/吴大文
+3. 🎵 我知道 - 吴大文
+4. 🎵 心墙 - 林俊杰
+5. 🎵 假如不再爱你 - 梁栋江
 
 <img align="left"  src="https://github-readme-stats.vercel.app/api?username=370966584&show_icons=true&theme=radical" />
