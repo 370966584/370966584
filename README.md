@@ -4,10 +4,10 @@
 
 😄 listen to my this week song list of top 5:
 
-1. 🎵 哪吒 - 蔡翊昇
-2. 🎵 各自为伴 - 李浩然
-3. 🎵 施舍  - 不是花火呀
-4. 🎵 善始善终 - ycccc/春芽音乐社
-5. 🎵 想想念念 - 皮卡丘多多
+1. 🎵 MISSING YOU -G-DRAGON 2013 WORLD TOUR ～ONE OF A KIND～ IN JAPAN DOME SPECIAL- - G-Dragon
+2. 🎵 少一点天分 - 孙盛希
+3. 🎵 串烧 - 许天昱/陈旭辉-nn/单子玹/蒋笛含
+4. 🎵 还可以爱吗 - 黄霄雲
+5. 🎵 黑夜问白天 - 林俊杰
 
 <img align="left"  src="https://github-readme-stats.vercel.app/api?username=370966584&show_icons=true&theme=radical" />
