@@ -4,10 +4,10 @@
 
 😄 listen to my this week song list of top 5:
 
-1. 🎵 Waiting - 傅许
-2. 🎵 那我走 - 奇一元
-3. 🎵 天空之外(抖音热播) - 水果龙仔
-4. 🎵 感官先生（翻自 嗨唱转起来） - 澪恩Seiwen
-5. 🎵 口是心非 (烟嗓版) - 半吨兄弟
+1. 🎵 可惜不是你 - 曹轩宾
+2. 🎵 谁曾经陪你接近童话 - 周童
+3. 🎵 年年 - 徐秉龙
+4. 🎵 疏远 - 刘初寻 (二逗)
+5. 🎵 可不可以勇敢 - 张韵鸷
 
 <img align="left"  src="https://github-readme-stats.vercel.app/api?username=370966584&show_icons=true&theme=radical" />
